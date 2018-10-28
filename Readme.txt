@@ -1,0 +1,1 @@
+A platform that helps students and teachers set a schedule for lessons, especially to battle the illiteracy and lack of education in countries in Africa. This app is built on the Android platform using Android Studio. 
